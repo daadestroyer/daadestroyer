@@ -1,4 +1,4 @@
-# Hi there! Shubham Nigam - शुभम निगम 🇮🇳 
+# Hi folks! I'm Shubham Nigam - शुभम निगम 🇮🇳 
 ### OCJA Certified Java SE 8 @oracle USA || Java Lover ❤ || Software Developer, not from IIT | NIT | IIM<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 
