@@ -1,18 +1,18 @@
-# Shubham Nigam - शुभम निगम 🇮🇳 &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Shubham Nigam - शुभम निगम 🇮🇳 &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
 
 
 <!-- 
     &nbsp; [![HitCount](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode.svg)](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode) 
 -->
 
-<img align="right" alt="PC GIF" src="https://github.com/daadestroyer/daadestroyer/blob/master/Assets/PC.gif" width="190" />
+<img align="right" alt="PC GIF" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/PC.gif" width="190" />
 
 ### <img src="https://github.com/TheDudeThatCode/daadestroyer/blob/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Earth.gif" width="24px">
 
 <p>
   <em>
     I completed BCA with 7.8 CGPA from from <a href="http://vsicskanpur.org/"> <b>Dr. VSICS</b>,(Kanpur)</a> and currently pursuing MCA from <a href="https://rvce.edu.in//"> <b> <br> R.V College of Engineering</b>,(Bengaluru)</a>   
-      I'm a <a href="https://education.oracle.com/java-se-8-programmer-i/pexam_1Z0-808">OCJA Certified </a> Java SE-8 @ <a href="https://www.oracle.com/index.html">Oracle(USA) </a>   <b>Software Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Not from IIT | NIT | IIM  . Best of all i'm a learner </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
+      I'm a <a href="https://education.oracle.com/java-se-8-programmer-i/pexam_1Z0-808">OCJA Certified </a> Java SE-8 @ <a href="https://www.oracle.com/index.html">Oracle(USA) </a>   <b>Software Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/main/Assets/Developer.gif" width="30px"> and a <b>Not from IIT | NIT | IIM  . Best of all i'm a learner </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/main/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Medal.gif" width="20px">
@@ -51,15 +51,15 @@
 
 <br>
 
-<img src="https://github.com/daadestroyer/daadestroyer/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 <br>
 
-# Connect with me<img src="https://github.com/daadestroyer/daadestroyer/blob/master/Assets/Handshake.gif" height="32px">
+# Connect with me<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Handshake.gif" height="32px">
 
 
 
-| [<img src="https://github.com/daadestroyer/daadestroyer/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/daadestroyer) | [<img src="https://github.com/daadestroyer/daadestroyer/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/daadestroyer) | [<img src="https://github.com/daadestroyer/daadestroyer/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/thedudethatcode/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/TheDudeThatCode) | [<img src="https://github.com/daadestroyer/daadestroyer/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13944080/thedudethatcode) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@shubhamdeepjha) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:thedudethatcode@gmail.com)
+| [<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/daadestroyer) | [<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/daadestroyer) | [<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/thedudethatcode/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/TheDudeThatCode) | [<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13944080/thedudethatcode) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@shubhamdeepjha) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:thedudethatcode@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
