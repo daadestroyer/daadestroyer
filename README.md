@@ -59,7 +59,7 @@
 
 
 
-| [<img src="https://github.com/daadestroyer/daadestroyer/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/daadestroyer) | [<img src="https://github.com/daadestroyer/daadestroyer/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/daadestroyer) | [<img src="https://github.com/daadestroyer/daadestroyer/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/thedudethatcode/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/TheDudeThatCode) | [<img src="https://github.com/daadestroyer/daadestroyer/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13944080/thedudethatcode) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@shubhamdeepjha) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:thedudethatcode@gmail.com)
+| [<img src="https://github.com/daadestroyer/daadestroyer/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/daadestroyer) | [<img src="https://github.com/daadestroyer/daadestroyer/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/daadestroyer) | [<img src="https://github.com/daadestroyer/daadestroyer/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/thedudethatcode/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/TheDudeThatCode) | [<img src="https://github.com/daadestroyer/daadestroyer/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13944080/thedudethatcode) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@shubhamdeepjha) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:thedudethatcode@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
@@ -74,24 +74,24 @@
 
 <!--
 
-![Dino](https://github.com/TheDudeThatCode/daadestroyer/blob/master/Assets/dino.gif)
+![Dino](https://github.com/TheDudeThatCode/daadestroyer/blob/main/Assets/dino.gif)
 
 <a href="https://in.linkedin.com/in/daadestroyer">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/daadestroyer/daadestroyer/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/TheDudeThatCode">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/daadestroyer/blob/master/Assets/Twitter.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/daadestroyer/blob/main/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/daadestroyer_14/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/daadestroyer/daadestroyer/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:nigamshubham2000@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/daadestroyer/daadestroyer/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Gmail.svg" />
   </a>
   
   
   
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Shubhamdeep Jha | Linkedin" width="34">](https://in.linkedin.com/in/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="24">](https://www.instagram.com/delta231_/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/delta456)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/deviant_art.jpg" alt="dev logo" width="24">](https://www.deviantart.com/delta2318) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Delta2315) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/10053063/delta231) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Delta456) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/reddit.jpg" alt="reddit logo" width="24">](https://www.reddit.com/user/Delta231)
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/main/Assets/Linkedin.svg" alt="Shubhamdeep Jha | Linkedin" width="34">](https://in.linkedin.com/in/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/main/Assets/Instagram.svg" alt="instagram logo" width="24">](https://www.instagram.com/delta231_/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/main/img/dev.png" alt="dev logo" width="24">](https://dev.to/delta456)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/main/img/deviant_art.jpg" alt="dev logo" width="24">](https://www.deviantart.com/delta2318) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/main/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Delta2315) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/main/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/10053063/delta231) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/main/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Delta456) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/main/img/reddit.jpg" alt="reddit logo" width="24">](https://www.reddit.com/user/Delta231)
 |---|---|---|---|---|---|---|---|
 
 
