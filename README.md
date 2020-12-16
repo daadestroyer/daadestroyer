@@ -28,24 +28,6 @@
 - <img alt="GIF" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/happy.gif" width="20vw" /> *Ask me* about **why do I think aliens 👽 exist.**
 - <img alt="GIF" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/coin.gif" width="20vw" /> **Fun fact:** Good companies with bad Interviewer often loose great people 🤙
 
-<br>
-
-<a href="https://github.com/daadestroyer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDudeThatCode&theme=dark&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/daadestroyer">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
-</a>
-
-
-<a href="https://github.com/daadestroyer/daadestroyer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daadestroyer&repo=daadestroyer&theme=dark" />
-</a>
-
-<a href="https://github.com/daadestroyer/Fun-with-DS-and-Algo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daadestroyer&repo=daadestroyer&theme=dark" />
-</a>
 
 <br>
 
