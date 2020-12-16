@@ -16,7 +16,7 @@
 <br /><br />
 
 ### About Me 😄
-Hi this is Shubham Nigam i completed my BCA 🎓 with 7.8 CGPA from Dr. VSICS (Kanpur) and Started MCA from R.V College of Engineering (Bengaluru)
+Hi this is Shubham Nigam i completed my BCA 🎓 with 7.8 CGPA from Dr. VSICS (Kanpur) and Started MCA from R.V College of Engineering (Bengaluru).
 I'm an OCJA Certified 🏅 Java SE 8(USA) , a tech enthusiast highly motivated, result-oriented person with good technical and interpersonal skills Best of all i'm a learner
 
 
