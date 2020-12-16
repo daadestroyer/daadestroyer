@@ -2,7 +2,7 @@
 ### OCJA Certified Java SE 8 @oracle USA || Java Lover ❤ || Software Developer, not from IIT | NIT | IIM<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 
-<a href="https://www.linkedin.com/in/daadestroyer/" style="background:red;">
+<a href="https://www.linkedin.com/in/daadestroyer/" >
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://www.instagram.com/daadestroyer_14/">
@@ -11,7 +11,9 @@
 <a href="mailto:nigamshubham2000@gmail.com">
   <img align="left" width="26px" style="color:red;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
+<a href="https://www.youtube.com/channel/UCglwQ-vj3dTv6vfFuHc3hzg?view_as=subscriber">
+  <img align="left" width="26px" style="color:red;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
 <br /><br />
 
