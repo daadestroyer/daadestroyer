@@ -1,5 +1,4 @@
-# Shubham Nigam - शुभम निगम 🇮🇳 &nbsp;<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
-### OCJA Certified Java SE 8 @oracle USA || Java Lover ❤ || Software Developer, not from IIT | NIT | IIM
+# Shubham Nigam - शुभम निगम 🇮🇳 &nbsp;<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Mario_Hello_Big.gif" width="30px"> <br> ### OCJA Certified Java SE 8 @oracle USA || Java Lover ❤ || Software Developer, not from IIT | NIT | IIM
 
 
 <!-- 
