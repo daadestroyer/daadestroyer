@@ -12,7 +12,7 @@
 <p>
   <em>
     I completed BCA with 7.8 CGPA from from <a href="http://vsicskanpur.org/"> <b>Dr. VSICS</b>,(Kanpur)</a> and currently pursuing MCA from <a href="https://rvce.edu.in//"> <b> <br> R.V College of Engineering</b>,(Bengaluru)</a>   
-      I'm a <a href="https://education.oracle.com/java-se-8-programmer-i/pexam_1Z0-808">OCJA Certified </a> Java SE-8 @ <a href="https://www.oracle.com/index.html">Oracle(USA) </a>   <b>Software Engineer</b> <img src="https://github.com/daadestroyer/# Shubham Nigam - शुभम निगम 🇮🇳 &nbsp;<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
+      I'm a <a href="https://education.oracle.com/java-se-8-programmer-i/pexam_1Z0-808">OCJA Certified </a> Java SE-8 @ <a href="https://www.oracle.com/index.html">Oracle(USA) </a>   <b>Software Engineer</b> <img src="https://github.com/TheDudeThatCode/# Shubham Nigam - शुभम निगम 🇮🇳 &nbsp;<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
 
 
 <!-- 
