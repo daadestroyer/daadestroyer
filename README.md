@@ -47,7 +47,7 @@
  [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/daadestroyer) &nbsp;
  [<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) &nbsp;
  [<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:nigamshubham2000@gmail.com)
- [<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/youtube.png" alt="Gmail logo" height="32">](https://www.hackerrank.com/)
+ [<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/youtube.svg" alt="Gmail logo" height="32">](https://www.hackerrank.com/)
 
 
 
