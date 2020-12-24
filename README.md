@@ -44,7 +44,7 @@
 
  [<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/daadestroyer)
  [<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/daadestroyer_14/)
- [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">] (https://github.com/daadestroyer)
+
  [<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">] (https://www.hackerrank.com/)
  [<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">] (mailto:nigamshubham2000@gmail.com)
  
