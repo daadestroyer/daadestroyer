@@ -1,5 +1,5 @@
 # Shubham Nigam - <a href="https://www.linkedin.com/in/daadestroyer/">शुभम निगम 🇮🇳</a> &nbsp;<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Mario_Hello_Big.gif" width="30px"> 
-### OCJA Certified Java SE 8 @oracle USA || Java Lover ❤ || Software Developer, not from IIT | NIT | IIM
+### OCJA Certified Java SE 8 @oracle USA || Java Lover ❤ || Upcoming Software Engineer, not from IIT | NIT | IIM
 
 
 <!-- 
@@ -13,7 +13,7 @@
 <p>
   <em>
     I completed BCA with 7.8 CGPA from from <a href="http://vsicskanpur.org/"> <b>Dr. VSICS</b>,(Kanpur)</a> and currently pursuing MCA from <a href="https://rvce.edu.in//"> <b> <br> R.V College of Engineering</b>,(Bengaluru)</a>   
-      I'm a <a href="https://education.oracle.com/java-se-8-programmer-i/pexam_1Z0-808">OCJA Certified </a> Java SE-8 @ <a href="https://www.oracle.com/index.html">Oracle(USA) </a>   <b>Software Engineer</b> <img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Developer.gif" width="30px"> <b>Not from IIT | NIT | IIM  . Best of all i'm a learner </b>&nbsp;<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
+      I'm a <a href="https://education.oracle.com/java-se-8-programmer-i/pexam_1Z0-808">OCJA Certified </a> Java SE-8 @ <a href="https://www.oracle.com/index.html">Oracle(USA) </a>   <b>Upcoming Software Engineer</b> <img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Developer.gif" width="30px"> <b>Not from IIT | NIT | IIM  . Best of all i'm a learner </b>&nbsp;<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Medal.gif" width="20px">
