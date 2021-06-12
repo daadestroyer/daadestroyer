@@ -39,7 +39,7 @@
     <tr valign="top">
       <td width="40%" align="center">
         <span>Java</span><br><br><br>
-        <img height="64px" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/java.svg">
+        <img height="64px" width="64px" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/java.svg">
      </td>
     </tr>
     
