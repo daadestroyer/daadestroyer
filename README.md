@@ -1,6 +1,6 @@
 # Shubham Nigam - <a href="https://www.linkedin.com/in/daadestroyer/">शुभम निगम 🇮🇳</a> &nbsp;<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Mario_Hello_Big.gif" width="30px"> 
 ### OCJA Certified Java SE 8 @oracle USA || Java Lover ❤ || Upcoming Software Engineer, not from IIT | NIT | IIM
-
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=daadestroyer.daadestroyer)
 
 <!-- 
     &nbsp; [![HitCount](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode.svg)](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode) 
