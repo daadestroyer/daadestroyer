@@ -22,65 +22,12 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 , *working* on my **laptop** 👨‍💻 and *doing some **workout** too💪
-- <img alt="GIF" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* **Data Structure and Algorithm** 💪.
-- <img alt="GIF" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/headbang.gif" width="20vw" /> I’m *Working* on **Java ☕ projects**.
-- <img alt="GIF" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/hmm.gif" width="20vw" /> I’m *looking* for *help* with **wifi connection 🌐**
-- <img alt="GIF" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/happy.gif" width="20vw" /> *Ask me* about **why do I think aliens 👽 exist.**
-- <img alt="GIF" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/coin.gif" width="20vw" /> **Fun fact:** Good companies with bad Interviewer often loose great people 🤙
-
-
-<br>
 
 <br>
 
 <img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 <br>
-
-# Connect with me<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Handshake.gif" height="32px">
-
-
-
- [<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/daadestroyer) &nbsp;
- [<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/daadestroyer_14/) &nbsp;
- [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/daadestroyer) &nbsp;
- [<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) &nbsp;
- [<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:nigamshubham2000@gmail.com)
- [<img style="margin-top:4px;" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/youtube.svg" alt="Gmail logo" height="42">](https://www.youtube.com/channel/UCglwQ-vj3dTv6vfFuHc3hzg)
-
-
-
-<br>
-<br>
-
-
-
-
-
-
-
-
-![Dino](https://github.com/TheDudeThatCode/daadestroyer/blob/main/Assets/dino.gif)
-
-<a href="https://in.linkedin.com/in/daadestroyer">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/TheDudeThatCode">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/daadestroyer/blob/main/Assets/Twitter.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/daadestroyer_14/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:nigamshubham2000@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Gmail.svg" />
-  </a>
-  
-  
-  
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/main/Assets/Linkedin.svg" alt="Shubhamdeep Jha | Linkedin" width="34">](https://in.linkedin.com/in/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/main/Assets/Instagram.svg" alt="instagram logo" width="24">](https://www.instagram.com/delta231_/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/main/img/dev.png" alt="dev logo" width="24">](https://dev.to/delta456)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/main/img/deviant_art.jpg" alt="dev logo" width="24">](https://www.deviantart.com/delta2318) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/main/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Delta2315) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/main/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/10053063/delta231) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/main/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Delta456) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/main/img/reddit.jpg" alt="reddit logo" width="24">](https://www.reddit.com/user/Delta231)
-|---|---|---|---|---|---|---|---|
-
 
 
 
@@ -145,8 +92,24 @@
     </tr>
   </tbody>
 </table>
+<br>
+<br>
+
+## Connect with me<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Handshake.gif" height="32px">
 
 
+
+ [<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/daadestroyer) &nbsp;
+ [<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/daadestroyer_14/) &nbsp;
+ [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/daadestroyer) &nbsp;
+ [<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) &nbsp;
+ [<img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:nigamshubham2000@gmail.com)
+ [<img style="margin-top:4px;" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/youtube.svg" alt="Gmail logo" height="42">](https://www.youtube.com/channel/UCglwQ-vj3dTv6vfFuHc3hzg)
+
+
+
+<br>
+<br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheDudeThatCode)
 
 
