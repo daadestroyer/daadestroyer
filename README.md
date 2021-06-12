@@ -37,12 +37,41 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="40%" align="center">
+      <td width="25%" align="center">
         <span>Java</span><br><br><br>
-        <img height="64px" width="64px" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/java.svg">
-     </td>
+        <img height="64px" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/java.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Spring</span><br><br><br>
+        <img height="64px" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/spring.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Hibernate</span><br><br><br>
+        <img height="64px" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/hibernate.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Git</span><br><br><br>
+        <img height="64px" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/git-icon.svg">
+      </td>
     </tr>
-    
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Bootstrap</span><br>
+        <img height="64px" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/bootstrap.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>CSS3</span><br><br><br>
+        <img height="64px" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/css-3.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>HTML5</span><br><br><br>
+        <img height="64px" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/html-5.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Angular</span><br><br><br>
+        <img height="64px" src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/angular.svg">
+      </td>
+    </tr>
    
   </tbody>
 </table>
