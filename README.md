@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shubham Nigam</h1>
-<h3 align="center">OCJA Certified and a Passionate fullstack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Shubham Nigam - शुभम निगम 🇮🇳</h1>
+<h3 align="center">OCJA Certified Java SE8 @Oracle USA Software Engineer not from IIT | NIT | IIM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daadestroyer&label=Profile%20views&color=0e75b6&style=flat" alt="daadestroyer" /> </p>
 
