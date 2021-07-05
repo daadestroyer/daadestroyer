@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **AngularJS , Spring Boot , Spring Data REST , other Spring Frameworks along with this i also did Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://daadestroyer.github.io/portfolio.html](Portfolio)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://daadestroyer.github.io/portfolio.html)
 
-- 📫 How to reach me **https://www.linkedin.com/in/daadestroyer/**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/daadestroyer/)
 
 - ⚡ Fun fact **Dont ask question if my code works !lol**
 
