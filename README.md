@@ -34,3 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daadestroyer&show_icons=true&locale=en" alt="daadestroyer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daadestroyer&" alt="daadestroyer" /></p>
+
+
+<center><h1>If you are a looser then only copy my README.md file (this file)</h1></center>
