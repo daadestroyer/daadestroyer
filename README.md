@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Nigam - शुभम निगम 🇮🇳</h1>
 <h3 align="center">OCJA Certified Java SE8 @Oracle USA Software Engineer not from IIT | NIT | IIM</h3>
 
+<a href="https://daadestroyer.github.io/"> <img src="https://github.com/daadestroyer/daadestroyer/blob/main/Assets/linkedin-banner-1.jpeg" width="auto" height="auto"/> </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daadestroyer&label=Profile%20views&color=0e75b6&style=flat" alt="daadestroyer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daadestroyer" alt="daadestroyer" /></a> </p>
